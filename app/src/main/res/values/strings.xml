@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Teste SoftDesign</string>
+    <string name="txt_marvel_app">Bem-vindo ao Teste SoftDesign, com ele você pode encontrar seus heróis favoritos</string>
+    <string name="txt_hint_search_character">Ex. Spider-Man</string>
+    <string name="txt_search">Buscar</string>
+    <string name="txt_search_all">Buscar Todos</string>
+    <string name="txt_comics">Participações</string>
+</resources>
